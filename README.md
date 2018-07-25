@@ -1,24 +1,14 @@
-# README
+MOOCacademy - Work 2
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Projet avec Kwevan GOUACIDE
 
-Things you may want to cover:
 
-* Ruby version
+Dans cet excercie on doit créer une plateforme d'apprentissage en ligne.
 
-* System dependencies
 
-* Configuration
+Il y a plein de cours.  
+Chaque cours a un titre et une description.    
+Enfin, chaque cours a plusieurs leçons, qui ont un titre et un body.  
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
